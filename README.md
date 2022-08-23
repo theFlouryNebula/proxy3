@@ -3,7 +3,7 @@ An easy Alloy instance to deploy to Heroku, any online IDE, or hosting it yourse
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloyproxy.org)
 
-<a href="https://github/theFlouryNebula/alloy21"title="Run on Repl.it"><img alt="Run on Repl.it" src="https://repl.it/badge/github/titaniumnetwork-dev/alloyproxy" width="140" height="30"><img></a>
+<a href="https://github/theFlouryNebula/alloy21"title="Run on Repl.it"><img alt="Run on Repl.it" src="https://github.com/theFlouryNebula/alloy21" width="140" height="30"><img></a>
 
 # How to use:
 
